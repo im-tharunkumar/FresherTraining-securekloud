@@ -1,0 +1,5 @@
+2023-07-04 18:13:00,745 :: INFO :: This is info log
+2023-07-04 18:13:00,746 :: DEBUG :: This is debug log
+2023-07-04 18:13:00,747 :: WARNING :: This is warning log
+2023-07-04 18:13:00,747 :: ERROR :: This is error log
+2023-07-04 18:13:00,747 :: CRITICAL :: This is critical log

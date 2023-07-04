@@ -1,0 +1,8 @@
+2023-07-04 18:00:48,476 :: DEBUG :: User enter their information
+2023-07-04 18:00:48,477 :: INFO :: User is major
+2023-07-04 18:01:28,303 :: DEBUG :: User enter their information
+2023-07-04 18:01:28,308 :: WARNING :: You are not major
+2023-07-04 18:02:42,964 :: DEBUG :: User enter their information
+2023-07-04 18:02:42,965 :: ERROR :: age enter as 0
+2023-07-04 18:02:57,699 :: DEBUG :: User enter their information
+2023-07-04 18:02:57,705 :: CRITICAL :: age is undefined
