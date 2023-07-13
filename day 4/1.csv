@@ -1,0 +1,21 @@
+Name,Age,Gender,Country,Education,Occupation,Salary,Work Experience,Email ID,SSN,State,Social Media
+John,25,Male,USA,Bachelor's Degree,Engineer,65000,3,john@example.com,123-45-6789,California,LinkedIn
+Jane,30,Female,Canada,Master's Degree,Doctor,120000,8,jane@example.com,987-65-4321,Ontario,Facebook
+Mark,22,Male,UK,High School Diploma,Student,,0,mark@example.com,567-89-0123,England,Instagram
+Emily,28,Female,Australia,Bachelor's Degree,Teacher,55000,5,emily@example.com,890-12-3456,New South Wales,Twitter
+David,35,Male,USA,PhD,Scientist,95000,10,david@example.com,345-67-8901,New York,LinkedIn
+Sophia,27,Female,Canada,Bachelor's Degree,Software Developer,80000,6,sophia@example.com,901-23-4567,Quebec,LinkedIn
+Daniel,31,Male,USA,Master's Degree,Consultant,100000,9,daniel@example.com,678-90-1234,California,Twitter
+Olivia,29,Female,UK,Bachelor's Degree,Journalist,60000,4,olivia@example.com,234-56-7890,England,Instagram
+Michael,33,Male,Australia,Master's Degree,Lawyer,110000,7,michael@example.com,789-01-2345,Victoria,Facebook
+Ava,26,Female,Canada,Bachelor's Degree,Marketing Specialist,70000,5,ava@example.com,456-78-9012,Quebec,Instagram
+Matthew,24,Male,USA,High School Diploma,Technician,45000,2,matthew@example.com,890-12-3456,California,LinkedIn
+Emma,32,Female,Australia,Bachelor's Degree,Graphic Designer,60000,6,emma@example.com,567-89-0123,Victoria,Instagram
+William,28,Male,UK,Master's Degree,Architect,85000,7,william@example.com,123-45-6789,England,Facebook
+Isabella,30,Female,USA,Bachelor's Degree,Writer,55000,4,isabella@example.com,987-65-4321,California,Twitter
+Joseph,29,Male,Canada,Master's Degree,Accountant,90000,8,joseph@example.com,567-89-0123,Ontario,LinkedIn
+Mia,27,Female,USA,Bachelor's Degree,Entrepreneur,75000,5,mia@example.com,890-12-3456,California,Facebook
+Andrew,31,Male,Australia,High School Diploma,Chef,40000,3,andrew@example.com,234-56-7890,Victoria,Instagram
+Charlotte,23,Female,UK,Bachelor's Degree,Artist,50000,2,charlotte@example.com,901-23-4567,England,Twitter
+Alexander,26,Male,USA,Master's Degree,Manager,120000,6,alexander@example.com,678-90-1234,California,LinkedIn
+Amelia,34,Female,Canada,Bachelor's Degree,Human Resources,80000,7,amelia@example.com,345-67-8901,Ontario,Facebook
